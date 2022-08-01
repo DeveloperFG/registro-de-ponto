@@ -14,6 +14,7 @@
  
 # 🚀 Tecnologias Usadas
 * React + Vit
+* API Git Perfil
 
 <br> 
 
