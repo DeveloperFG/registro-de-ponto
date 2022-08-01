@@ -43,7 +43,7 @@ function App() {
       <header>
        <h1>Registro de ponto</h1>
        <div>
-        <strong> Admin: {user.name} </strong>
+        <strong><small>{user.name} </small>  </strong>
         <img src={user.avatar}  alt='Foto perfil'/>
       </div>
       </header>

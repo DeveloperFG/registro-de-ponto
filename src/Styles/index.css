@@ -87,9 +87,18 @@ body, input, button{
 }
 
 .container header h1{
-   font-size: 22px;
+   font-size: 19px;
    text-transform: uppercase;
-   margin-bottom: 10px;
+   margin-bottom: 18px;
+}
+
+.container input{
+    width: 80%;
+    
+}
+
+.container button{
+    width: 80%;
 }
 
 
